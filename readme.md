@@ -25,7 +25,7 @@ Add, commit, push. Большего мне пока не требовалось.
 
 С английским у меня особых проблем нет, документацию и технические книги могу свободно читать, искать информацию на английском, с письмом похуже, но изъясниться могу.
 
-email: megamanCake@yandex.ru
-telegram: https://t.me/greencake
-discord: BookCake#1649
+email: megamanCake@yandex.ru \
+telegram: https://t.me/greencake \
+discord: BookCake#1649 \
 vk: https://vk.com/egreencake
